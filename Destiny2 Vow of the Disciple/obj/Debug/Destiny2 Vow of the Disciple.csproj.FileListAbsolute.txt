@@ -1,0 +1,14 @@
+C:\Users\lifep\source\repos\Destiny2 Oath of the disciple\Destiny2 Oath of the disciple\bin\Debug\Destiny2 Vow of the Disciple.exe.config
+C:\Users\lifep\source\repos\Destiny2 Oath of the disciple\Destiny2 Oath of the disciple\bin\Debug\Destiny2 Vow of the Disciple.exe
+C:\Users\lifep\source\repos\Destiny2 Oath of the disciple\Destiny2 Oath of the disciple\bin\Debug\Destiny2 Vow of the Disciple.pdb
+C:\Users\lifep\source\repos\Destiny2 Oath of the disciple\Destiny2 Oath of the disciple\bin\Debug\DotNetBarcode.dll
+C:\Users\lifep\source\repos\Destiny2 Oath of the disciple\Destiny2 Oath of the disciple\obj\Debug\Destiny2 Vow of the Disciple.csproj.AssemblyReference.cache
+C:\Users\lifep\source\repos\Destiny2 Oath of the disciple\Destiny2 Oath of the disciple\obj\Debug\Destiny2 Vow of the Disciple.csproj.SuggestedBindingRedirects.cache
+C:\Users\lifep\source\repos\Destiny2 Oath of the disciple\Destiny2 Oath of the disciple\obj\Debug\Destiny2_Vow_of_the_Disciple.Form1.resources
+C:\Users\lifep\source\repos\Destiny2 Oath of the disciple\Destiny2 Oath of the disciple\obj\Debug\Destiny2_Vow_of_the_Disciple.form.QRCodeForm.resources
+C:\Users\lifep\source\repos\Destiny2 Oath of the disciple\Destiny2 Oath of the disciple\obj\Debug\Destiny2_Vow_of_the_Disciple.Properties.Resources.resources
+C:\Users\lifep\source\repos\Destiny2 Oath of the disciple\Destiny2 Oath of the disciple\obj\Debug\Destiny2 Vow of the Disciple.csproj.GenerateResource.cache
+C:\Users\lifep\source\repos\Destiny2 Oath of the disciple\Destiny2 Oath of the disciple\obj\Debug\Destiny2 Vow of the Disciple.csproj.CoreCompileInputs.cache
+C:\Users\lifep\source\repos\Destiny2 Oath of the disciple\Destiny2 Oath of the disciple\obj\Debug\Destiny2 Vow of the Disciple.csproj.CopyComplete
+C:\Users\lifep\source\repos\Destiny2 Oath of the disciple\Destiny2 Oath of the disciple\obj\Debug\Destiny2 Vow of the Disciple.exe
+C:\Users\lifep\source\repos\Destiny2 Oath of the disciple\Destiny2 Oath of the disciple\obj\Debug\Destiny2 Vow of the Disciple.pdb
