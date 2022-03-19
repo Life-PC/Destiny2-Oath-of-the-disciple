@@ -35,6 +35,8 @@ Destiny2 門弟の誓い コールアシスト
        - 「netsh advfirewall firewall set rule name="Destiny2 Vow of the Disciple Response" new program=system profile=private protocol=tcp localport=8080」の「8080」がポート番号になります。
 5. 「プログラムの場所を変えたら、スマートフォンとの連携ができなくなった」
    - 「bak」フォルダー内「root.bat」を「Destiny2 Vow of the Disciple.exe」と同じディレクトリにコピーしてください。
+   - rot.bat編集：「netsh advfirewall firewall set rule name="Destiny2 Vow of the Disciple" new program="{AppDir}" profile=public」この一行だけ記述して保存
+   - 「Destiny2 Vow of the Disciple.exe」起動
 7. 「使わなくなった」「これを起動することによって、ほかのアプリがおかしくなった」
    - ファイアーフォールの受信規則から、下記の項目を削除してください。
      - Destiny2 Vow of the Disciple Response
