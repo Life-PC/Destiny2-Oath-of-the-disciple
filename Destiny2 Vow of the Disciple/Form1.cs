@@ -1,4 +1,4 @@
-﻿using Destiny2_Vow_of_the_Disciple.lib;
+using Destiny2_Vow_of_the_Disciple.lib;
 using Destiny2_Vow_of_the_Disciple.lib.hook;
 using System;
 using System.Collections.Generic;
@@ -25,21 +25,10 @@ namespace Destiny2_Vow_of_the_Disciple
         Thread thread,httpserver;
         Client client;
         httpServer http;
-        private MyClipboardViewer viewer;
 
         public Form1()
         {
-            viewer = new MyClipboardViewer(this);
-            viewer.ClipboardHandler += this.OnClipBoardChanged;
-
             InitializeComponent();
-        }
-
-
-        // クリップボードにテキストがコピーされると呼び出される
-        private void OnClipBoardChanged(object sender, ClipboardEventArgs args)
-        {
-            Console.WriteLine(args.Text);
         }
 
         private void keyboardHook1_KeyboardHooked(object sender, KeyboardHookedEventArgs e)
@@ -140,8 +129,6 @@ namespace Destiny2_Vow_of_the_Disciple
 
             form.QRCodeForm qr = new form.QRCodeForm(html.ipAddress);
             qr.ShowDialog();
-
-
         }
     }
 }
